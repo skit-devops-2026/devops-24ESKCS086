@@ -7,7 +7,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| 24ESKCS085 | BHAVISHYA MEENA | b240584-droid |
+| 24ESKCS086 | BHAVISHYA SAINI | b241693-cyber |
 
 ## About
 
